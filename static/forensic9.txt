@@ -7,7 +7,7 @@ Q2
 greatscott
 
 Q3
-/home/mcfly/Desktop/dir4/dir5/q3.txt
+/home/mcfly/Desktop/dir4/dir5/DMCDeLorean.txt
 
 Q4
 /home/mcfly/Desktop/dir7/dir8/gigawatts.txt
