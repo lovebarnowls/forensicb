@@ -1,7 +1,8 @@
-Occam's wife has played a prank on Occam and saved a note on his computer in:
-/home/occamrazor/Desktop/dir1/dir2/q3.txt
+Mcfly needs the contents of a file called q3.txt somewhere on the server.
+What is the full path of the file? (note: include the filename and extension)
 
-What is her message?
+eg. /home/mcfly/desktop/here/this.txt
+
 
 ANSWER: <Type answer here>
 
