@@ -1,10 +1,12 @@
-Mcfly needs the contents of a file called q3.txt somewhere on the server.
+Mcfly needs the contents of a file called dmcdelorean.txt somewhere on the image
 What is the full path of the file? (note: include the filename and extension)
 
 eg. /home/mcfly/desktop/here/this.txt
 
 
 ANSWER: <Type answer here>
+
+Hint: -i
 
 
 Note: There must be a single space between the colon and the beginning of your answer. There may be no spaces in your answer.  If your answer requires spaces, please use the underscore "_" in place of the space.  Do not include the carets (< >) in your answer.
