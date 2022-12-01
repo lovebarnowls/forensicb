@@ -1,7 +1,5 @@
-Occam's friend has replied, using a different code.
-/home/occamrazor/Desktop/dir1/dir2/dir3/q6.txt
-
-What is the message?
+What is the message of the file found in:
+/home/mcfly/Desktop/dir7/dir8/dir9
 
 ANSWER: <Type answer here>
 
