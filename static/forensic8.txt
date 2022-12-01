@@ -1,8 +1,7 @@
-Congrats for making it to the end. One last question.
+Congratulations on making it to the last question.
+What is the message found in this file?
 
-What is the hidden message found in this folder?
-
-
+/home/mcfly/Desktop/dir4/q8.txt
 
 ANSWER: <Type answer here>
 
