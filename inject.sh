@@ -15,7 +15,7 @@ sudo mv /home/mcfly/Desktop/dir1/dir2/dir3 /home/mcfly/Desktop/dir1/dir2/.dir3
 
 
 #Q3 find exact file name
-sudo echo 'timemachineoutofadelorean' > /home/mcfly/Desktop/dir4/dir5/q3.txt
+sudo echo 'timemachineoutofadelorean' > /home/mcfly/Desktop/dir4/dir5/DMCDeLorean.txt
 
 #Q4 find file exact byte condition
 sudo fallocate -l 121 /home/mcfly/Desktop/dir7/dir8/gigawatts.txt
