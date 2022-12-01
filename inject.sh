@@ -1,7 +1,7 @@
 #!/bin/bash
 
 sudo useradd mcfly
-sudo useradd doc
+sudo useradd docbrown
 sudo mkdir -p /home/mcfly/Desktop/dir1/dir2/dir3
 sudo mkdir -p /home/mcfly/Desktop/dir4/dir5/dir6
 sudo mkdir -p /home/mcfly/Desktop/dir7/dir8/dir9
@@ -28,7 +28,7 @@ sudo echo 'makelikeatree' > /home/mcfly/Desktop/dir7/dir8/dir9/./-.txt
 
 #Q7 find file owner
 sudo echo 'wedontneedroadswherewearegoing' > /home/mcfly/Desktop/dir4/dir5/dir6/q7.txt
-sudo chown doc /home/mcfly/Desktop/dir4/dir5/dir6/q7.txt
+sudo chown docbrown /home/mcfly/Desktop/dir4/dir5/dir6/q7.txt
 
 #Q8 chmod and open
 sudo echo 'silenceearthling' > /home/mcfly/Desktop/dir4/q8.txt
