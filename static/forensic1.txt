@@ -1,6 +1,5 @@
-The only user on this computer, Occam, uses an MD5 hash of his favourite saying for his banking password.
-His favourite sayinf can be found in /home/occamrazor/Desktop/dir1/q1.txt
-Provide the MD5 hash below.
+What are the contents of Mcfly's txt file in the following location?
+/home/mcfly/Desktop/dir1
 
 ANSWER: <Type answer here>
 
