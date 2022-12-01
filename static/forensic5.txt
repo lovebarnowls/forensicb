@@ -1,11 +1,6 @@
-By now you know that Occam's computer is the most insecure in the world.
-So Occam has employed a trick to write another message back to his friend.
-The message file is found in:
-/home/occamrazor/Desktop/dir1/dir2/dir3/q5.txt
+There is a file somewhere on the image that contains the word 'chicken'.
 
-What is the message?
-
-Hint: what are equal signs typical of?
+What is the full message of the file?
 
 ANSWER: <Type answer here>
 
