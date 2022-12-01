@@ -31,7 +31,7 @@ sudo echo 'wedontneedroadswherewearegoing' > /home/mcfly/Desktop/dir4/dir5/dir6/
 sudo chown doc /home/mcfly/Desktop/dir4/dir5/dir6/q7.txt
 
 #Q8 chmod and open
-sudo echo 'silenceearthling' > /home/mcfly/Desktop/dir7/dir8/q8.txt
-sudo chmod 000 /home/mcfly/Desktop/dir7/dir8/q8.txt
+sudo echo 'silenceearthling' > /home/mcfly/Desktop/dir4/q8.txt
+sudo chmod 000 /home/mcfly/Desktop/dir4/q8.txt
 
 
