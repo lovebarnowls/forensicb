@@ -1,32 +1,37 @@
 #!/bin/bash
 
-sudo useradd occamrazor
+sudo useradd mcfly
+sudo useradd doc
+sudo mkdir -p /home/mcfly/Desktop/dir1/dir2/dir3
+sudo mkdir -p /home/mcfly/Desktop/dir4/dir5/dir6
+sudo mkdir -p /home/mcfly/Desktop/dir7/dir8/dir9
 
-sudo mkdir -p /home/occamrazor/Desktop/dir1/dir2/dir3/dir4/dir5
+#Q1 find file in specific location
+sudo echo '1point21gigawatts' > /home/mcfly/Desktop/dir1/q1.txt
 
-#MD5 hash Q1
-sudo echo 'lawofparsimony' > /home/occamrazor/Desktop/dir1/q1.txt
+#Q2 find file in hidden folder
+sudo echo 'greatscott' > home/mcfly/Desktop/dir1/dir2/.dir3/.q2.txt
+sudo mv /home/mcfly/Desktop/dir1/dir2/dir3 /home/mcfly/Desktop/dir1/dir2/.dir3
 
-#base64 decrypt Q2
-sudo echo 'bm92YWN1bGEgT2NjYW1p' > /home/occamrazor/Desktop/dir1/q2.txt
 
-#Binary Q3
-sudo echo '0111011101101000011110010110100101110011011101000110100001101001011100110110011101110101011110010111010001100001011011000110101101101001011011100110011101100001011000100110111101110101011101000110111101100011011000110110000101101101' > /home/occamrazor/Desktop/dir1/dir2/q3.txt
+#Q3 find exact file name
+sudo echo 'timemachineoutofadelorean' > p /home/mcfly/Desktop/dir4/dir5/q3.txt
 
-#MD5 + base64 Q4
-sudo echo 'aG93YWJvdXRhdXRob3Jjb25hbmRveWxl' > /home/occamrazor/Desktop/dir1/dir2/q4.txt
+#Q4 find file exact byte condition
+sudo fallocate -l 121 /home/mcfly/Desktop/dir7/dir8/gigawatts.txt
 
-#reverse MD5 Q5
-sudo echo '==wcllGdpxWail2cz9GcsxWYkVGdh5WatlGblVmdhhWdvlnblh2d' > /home/occamrazor/Desktop/dir1/dir2/dir3/q5.txt
+#Q5 find file containing text
+sudo echo 'nobodycallsmechicken' > /home/mcfly/Desktop/dir7/thisfilenameislongbecause.txt
 
-#Morse Q6
-sudo echo '100 1111 10 0 1 1110 1 101 101 1 00 10 11 01 111 01 000 00 10 0 0 1 101 1111 000 100 11 00 1001 000 111 111 11 0111 1011 1' > /home/occamrazor/Desktop/dir1/dir2/dir3/q6.txt
+#Q6 find hidden file exact folder
+sudo echo 'makelikeatree' > /home/mcfly/Desktop/dir4/dir5/dir6/.q6.txt
 
-# Hidden file to decode Q7
-sudo echo 'rzxygjymjywzym' > /home/occamrazor/Desktop/dir1/dir2/dir3/dir4/q7.txt
-sudo mv /home/occamrazor/Desktop/dir1/dir2/dir3/dir4/q7.txt /home/occamrazor/Desktop/dir1/dir2/dir3/dir4/.q7.txt
+#Q7 find file owner
+sudo echo 'wedontneedroadswherewearegoing' > /home/mcfly/Desktop/dir4/dir5/dir6/q7.txt
+sudo chown doc /home/mcfly/Desktop/dir4/dir5/dir6/q7.txt
 
-#cat with spaces in file name to MD5
-sudo echo '1011 111 001 11 01 100 0 00 1 1 111 1 0000 0 0 10 100' >  /home/occamrazor/Desktop/dir1/dir2/dir3/dir4/dir5/the\ end.txt
+#Q8 chmod and open
+sudo echo 'silenceearthling' > /home/mcfly/Desktop/dir7/dir8/q8.txt
+sudo chmod 000 /home/mcfly/Desktop/dir7/dir8/q8.txt
 
 
