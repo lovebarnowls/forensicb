@@ -24,7 +24,7 @@ sudo fallocate -l 121 /home/mcfly/Desktop/dir7/dir8/gigawatts.txt
 sudo echo 'nobodycallsmechicken' > /home/mcfly/Desktop/dir7/thisfilenameislongbecause.txt
 
 #Q6 open file with - filename
-sudo echo 'makelikeatree' > /home/mcfly/Desktop/dir1/dir2/./-.txt
+sudo echo 'makelikeatree' > /home/mcfly/Desktop/dir7/dir8/dir9/./-.txt
 
 #Q7 find file owner
 sudo echo 'wedontneedroadswherewearegoing' > /home/mcfly/Desktop/dir4/dir5/dir6/q7.txt
