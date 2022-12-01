@@ -1,7 +1,7 @@
-Occam's best friend can't stand Occam talking about razors, so the friend left a secret message in the following file.
-/home/occamrazor/Desktop/dir1/dir2/q4.txt
+Mcfly has forgotten where he saved a file that is exactly 121 bytes in size.
+Provide the file path for him, including the filename and extension.
 
-Decrypt the content of the secret message, and Provide the MD5 hash of the secret message so Occam and his friend know they both have the same message.
+eg: /home/mcfly/desktop/here/thisfile.txt
 
 ANSWER: <Type answer here>
 
