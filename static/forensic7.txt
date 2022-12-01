@@ -1,14 +1,10 @@
-What is the hidden message (requires decryption) found in the following directory?
+Who is the file owner of the following file?
 
-
-/home/occamrazor/Desktop/dir1/dir2/dir3/dir4/
-
+/home/mcfly/Desktop/dir4/dir5/dir6/q7.txt
 
 
 ANSWER: <Type answer here>
 
-
-Hint: 5
 
 
 Note: There must be a single space between the colon and the beginning of your answer. There may be no spaces in your answer.  If your answer requires spaces, please use the underscore "_" in place of the space.  Do not include the carets (< >) in your answer.
